@@ -1,11 +1,5 @@
 # WastEarn
 
-## Contributors :
-1. Himanshu Mishra
-2. Parth Sarode
-3. Nikhil Singh
-4. Deepak Parihar
-
 ### list of technologies used :
 - HTML
 - CSS
