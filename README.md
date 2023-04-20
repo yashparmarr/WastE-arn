@@ -16,4 +16,4 @@ Coming to the user part. User have access of 4 pages Home page, sell page, check
 
 Now coming to the organisation part. Organisation have access of 3 pages Home page, Waste page and update status page. Homepage is similar to user home page. In Waste page organisation can see all the waste that is available in their city and also filter it by waste type and city. In update status page organisation can update the status of the waste that he purchased so that user can track his/her waste.
 
-URL - https://wastearn.herokuapp.com/
+URL - https://wastearn.onrender.com/
